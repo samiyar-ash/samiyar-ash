@@ -15,7 +15,7 @@
 
 <p align="center">
     <h1 align="center">My Academy is Apllocode
-    <img src="https://apllocode.ir/f.png" width="500 alt="AplloCode">
+    <img src="https://apllocode.ir/f.png" width="80 alt="AplloCode">
     
 
 ---
