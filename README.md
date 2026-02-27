@@ -27,24 +27,32 @@ I engineer **real-world intelligent systems** — from PCB to backend logic — 
 ---
 
 <p align="center">
-
   <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&size=30&duration=2500&pause=800&color=00F0FF&center=true&vCenter=true&width=800&lines=SAMiYAR+%7C+SKILL;Embedded+%26+Backend+Engineer" />
-
   <br><br>
+  <img src="https://img.shields.io/badge/Python-Expert-111827?style=for-the-badge&logo=python&logoColor=00F0FF&color=00F0FF" />
+  <img src="https://img.shields.io/badge/Django-Advanced-111827?style=for-the-badge&logo=django&logoColor=00F0FF&color=0077FF" />
+  <img src="https://img.shields.io/badge/Embedded_Systems-Advanced-111827?style=for-the-badge&logo=arduino&logoColor=00F0FF&color=00F0FF" />
+  <img src="https://img.shields.io/badge/PCB_Design_(Altium)-Advanced-111827?style=for-the-badge&logo=altiumdesigner&logoColor=00F0FF&color=0077FF" />
+  <img src="https://img.shields.io/badge/Raspberry_Pi-Advanced-111827?style=for-the-badge&logo=raspberrypi&logoColor=00F0FF&color=00F0FF" />
+  <img src="https://img.shields.io/badge/PHP_/_MySQL-Intermediate-111827?style=for-the-badge&logo=php&logoColor=00F0FF&color=0077FF" />
+  <br><br>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" title="Python" style="transition: all 0.3s ease; filter: drop-shadow(0 0 5px #00BFFF);" /></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="50" title="Arduino" style="transition: all 0.3s ease; filter: drop-shadow(0 0 5px #00BFFF);" /></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="50" title="Raspberry Pi" style="transition: all 0.3s ease; filter: drop-shadow(0 0 5px #00BFFF);" /></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" title="MySQL" style="transition: all 0.3s ease; filter: drop-shadow(0 0 5px #00BFFF);" /></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" title="PHP" style="transition: all 0.3s ease; filter: drop-shadow(0 0 5px #00BFFF);" /></a>
+  <a href="#"><img src="https://cdn.files.altium.com/sites/default/files/2024-12/AD-logo-horizontal-BLK.svg" width="80" title="Altium Designer" style="transition: all 0.3s ease; filter: drop-shadow(0 0 5px #00BFFF);" /></a>
+  <a href="#"><img src="https://cdn.worldvectorlogo.com/logos/solidworks-logo-1.svg" width="100" title="SolidWork" style="transition: all 0.3s ease; filter: drop-shadow(0 0 5px #00BFFF);" /></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" width="50" title="Embedded" style="transition: all 0.3s ease; filter: drop-shadow(0 0 5px #00BFFF);" /></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" title="HTML" style="transition: all 0.3s ease; filter: drop-shadow(0 0 5px #00BFFF);" /></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="50" title="CSS" style="transition: all 0.3s ease; filter: drop-shadow(0 0 5px #00BFFF);" /></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" title="JavaScript" style="transition: all 0.3s ease; filter: drop-shadow(0 0 5px #00BFFF);" /></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50" title="Django" style="transition: all 0.3s ease; filter: drop-shadow(0 0 5px #00BFFF);" /></a>
 
-  <img src="https://img.shields.io/badge/Python_Engineering-95%25-0f111a?style=for-the-badge&logo=python&logoColor=00F0FF&labelColor=0f111a&color=00F0FF" />
-  <br>
-  <img src="https://img.shields.io/badge/Embedded_Systems-90%25-0f111a?style=for-the-badge&logo=arduino&logoColor=00F0FF&labelColor=0f111a&color=0077ff" />
-  <br>
-  <img src="https://img.shields.io/badge/Arduino_%2F_Raspberry_Pi-88%25-0f111a?style=for-the-badge&logo=raspberrypi&logoColor=00F0FF&labelColor=0f111a&color=00F0FF" />
-  <br>
-  <img src="https://img.shields.io/badge/PCB_Design_(Altium)-85%25-0f111a?style=for-the-badge&logo=altiumdesigner&logoColor=00F0FF&labelColor=0f111a&color=0077ff" />
-  <br>
-  <img src="https://img.shields.io/badge/Django_Backend-80%25-0f111a?style=for-the-badge&logo=django&logoColor=00F0FF&labelColor=0f111a&color=00F0FF" />
-  <br>
-  <img src="https://img.shields.io/badge/Web_Systems_(PHP_/_MySQL_/_JS)-75%25-0f111a?style=for-the-badge&logo=php&logoColor=00F0FF&labelColor=0f111a&color=0077ff" />
 
 </p>
+
+
 
 ---
 
