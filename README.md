@@ -1,138 +1,147 @@
-<!-- ================= CYBER HEADER ================= -->
+<!-- ================= HEADER ================= -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=38&duration=4000&color=00F0FF&center=true&vCenter=true&width=900&lines=Samiyar+Ashuri;Embedded+%7C+Python+Engineer;Hardware+%2B+Software+Architect;Founder+of+AplloCode" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=5000&color=00BFFF&width=900&lines=Hi+👋,+I'm+Samiyar;Embedded+%2B+Python+Developer;Hardware+%2B+Software+Creator;Founder+of+AplloCode" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:004e92&height=120&section=header"/>
-</p>
+<div align="center">
 
----
-
-# ⚡ SYSTEM PROFILE
-
-<div style="background:rgba(15,17,26,0.75); backdrop-filter:blur(14px); border-radius:24px; padding:35px; box-shadow:0 0 50px #00F0FF22; border:1px solid #00F0FF33;">
-
-### 👨‍💻 Identity
-**Samiyar Ashuri**  
-Embedded Systems & Python Engineer  
-PCB Designer • Automation Developer • System Integrator  
-
-### 🧠 Mission
-I engineer intelligent **hardware + software ecosystems** — from PCB layout to backend logic.
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Digital_rain_banner.gif" width="100%"/>
 
 </div>
 
 ---
 
-# 🧩 TECHNOLOGY STACK
+# ⚡ About Me
 
-<div align="center" style="background:rgba(10,14,24,0.75); backdrop-filter:blur(15px); border-radius:25px; padding:35px; box-shadow:0 0 60px #00F0FF22; border:1px solid #00F0FF22;">
+<div style="background:#0f111a; padding:25px; border-radius:18px; box-shadow:0 0 25px #00BFFF33;">
 
-<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" /></a>
-<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="55" /></a>
-<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="55" /></a>
-<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55" /></a>
-<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="55" /></a>
-<a href="#"><img src="https://cdn.files.altium.com/sites/default/files/2024-12/AD-logo-horizontal-BLK.svg" width="90"/></a>
-<a href="#"><img src="https://cdn.worldvectorlogo.com/logos/solidworks-logo-1.svg" width="110"/></a>
-<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55" /></a>
-<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="55" /></a>
-<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55" /></a>
-<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="55" /></a>
+🔹 **Samiyar Ashuri**  
+🔹 Embedded Systems & Python Developer  
+🔹 PCB Designer (Altium) & 3D Designer (SolidWorks)  
+🔹 Automation & Software-Hardware Integration  
+
+💡 I build real **hardware + software systems** with deep passion for electronics, coding, and automation.
 
 </div>
 
 ---
 
-# 🚀 CORE CAPABILITIES
+# 🚀 Tech Skills
 
-<div style="background:rgba(10,14,24,0.75); backdrop-filter:blur(15px); border-radius:25px; padding:40px; box-shadow:0 0 60px #00F0FF22; border:1px solid #00F0FF22; max-width:850px; margin:auto;">
+<div style="background:#0f111a; padding:30px; border-radius:20px; box-shadow:0 0 30px #00BFFF33; max-width:800px; margin:auto;">
 
-<h3 align="center" style="color:#00F0FF; letter-spacing:2px;">SKILL MATRIX</h3>
+<h3 align="center" style="color:#00BFFF;">⚙ Core Skills</h3>
 
-<div class="skill"><span>Python Engineering</span>
-<div class="bar-wrap"><div class="bar" style="--w:94%;"></div></div></div>
+<div class="skill">
+<span>Python</span>
+<div class="bar-container"><div class="bar" style="--w:92%;"></div></div>
+</div>
 
-<div class="skill"><span>Embedded Systems Architecture</span>
-<div class="bar-wrap"><div class="bar" style="--w:90%;"></div></div></div>
+<div class="skill">
+<span>Embedded Systems</span>
+<div class="bar-container"><div class="bar" style="--w:88%;"></div></div>
+</div>
 
-<div class="skill"><span>Arduino / Raspberry Pi</span>
-<div class="bar-wrap"><div class="bar" style="--w:87%;"></div></div></div>
+<div class="skill">
+<span>Arduino / Raspberry Pi</span>
+<div class="bar-container"><div class="bar" style="--w:85%;"></div></div>
+</div>
 
-<div class="skill"><span>PCB Design (Altium)</span>
-<div class="bar-wrap"><div class="bar" style="--w:82%;"></div></div></div>
+<div class="skill">
+<span>Altium Designer (PCB)</span>
+<div class="bar-container"><div class="bar" style="--w:80%;"></div></div>
+</div>
 
-<div class="skill"><span>Web Systems (PHP / MySQL / JS)</span>
-<div class="bar-wrap"><div class="bar" style="--w:85%;"></div></div></div>
+<div class="skill">
+<span>Web (HTML/CSS/JS + PHP + MySQL)</span>
+<div class="bar-container"><div class="bar" style="--w:82%;"></div></div>
+</div>
 
-<div class="skill"><span>Django Backend</span>
-<div class="bar-wrap"><div class="bar" style="--w:78%;"></div></div></div>
+<div class="skill">
+<span>Django</span>
+<div class="bar-container"><div class="bar" style="--w:75%;"></div></div>
+</div>
 
 </div>
 
 <style>
 .skill{
-  margin:22px 0;
+  margin-bottom:18px;
   font-family:Segoe UI;
 }
 .skill span{
-  color:#e6faff;
-  font-weight:600;
-  font-size:14px;
-  letter-spacing:1px;
+  color:#ffffff;
+  font-weight:bold;
 }
-.bar-wrap{
-  background:#0f1624;
-  border-radius:14px;
+.bar-container{
+  background:#1c1f26;
+  border-radius:12px;
   overflow:hidden;
   height:14px;
-  margin-top:8px;
-  box-shadow:inset 0 0 8px #000;
+  margin-top:6px;
 }
 .bar{
   height:100%;
   width:0;
-  background:linear-gradient(90deg,#00F0FF,#0077ff,#00F0FF);
-  background-size:200% 100%;
-  border-radius:14px;
-  animation:
-    fill 2.2s ease forwards,
-    glow 3s ease-in-out infinite alternate,
-    gradientMove 4s linear infinite;
-  box-shadow:0 0 15px #00F0FF88;
+  background:linear-gradient(90deg,#00BFFF,#0077ff);
+  border-radius:12px;
+  animation:fill 2s ease forwards;
 }
 @keyframes fill{
   from{width:0;}
   to{width:var(--w);}
 }
-@keyframes glow{
-  from{box-shadow:0 0 8px #00F0FF66;}
-  to{box-shadow:0 0 22px #00F0FFcc;}
-}
-@keyframes gradientMove{
-  from{background-position:0% 50%;}
-  to{background-position:100% 50%;}
-}
 </style>
 
 ---
 
-# 🧠 ENGINEERED PROJECTS
+# 🧠 Featured Projects
 
-<p align="center">
+<div align="center">
+
 <a href="https://github.com/samiyar/ADHD-Test-App">
-<img src="https://img.shields.io/badge/NeuroTest-System-00F0FF?style=for-the-badge&logo=python&logoColor=black"/>
+<img src="https://img.shields.io/badge/ADHD-Test-App-00BFFF?style=for-the-badge&logo=python&logoColor=white"/>
 </a>
 
 <a href="https://github.com/samiyar/Doctor-Appointment">
-<img src="https://img.shields.io/badge/Medical-Scheduler-0077FF?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Doctor-Appointment-System-0077FF?style=for-the-badge&logo=python&logoColor=white"/>
 </a>
 
 <a href="https://github.com/samiyar/Embedded-Motor-Control">
-<img src="https://img.shields.io/badge/Motor-Control-Architecture-00C3FF?style=for-the-badge&logo=arduino&logoColor=black"/>
+<img src="https://img.shields.io/badge/Embedded-Motor-Control-0055FF?style=for-the-badge&logo=arduino&logoColor=white"/>
 </a>
-</p>
+
+</div>
 
 ---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.instagram.com/samiyar_ash">
+<img src="https://www.svgrepo.com/show/303145/instagram-2-1-logo.svg" width="45"/>
+</a>
+
+<a href="https://t.me/samiyar_ash">
+<img src="https://www.svgrepo.com/show/452115/telegram.svg" width="45"/>
+</a>
+
+<a href="https://www.linkedin.com/in/samiyar-ashuri-607619312">
+<img src="https://www.svgrepo.com/show/452051/linkedin.svg" width="45"/>
+</a>
+
+<a href="https://apllocode.ir">
+<img src="https://apllocode.ir/f.png" width="45"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ "Turning Ideas into Real Hardware & Intelligent Systems"
+
+</div>
