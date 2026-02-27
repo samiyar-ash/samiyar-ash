@@ -4,21 +4,21 @@
 =========================== -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&center=true&vCenter=true&width=650&lines=Hi,+I'm+Samiyar;Embedded+Systems+%26+Python+Developer;Building+Hardware+%2B+Software;Learning+&+Sharing+@AplloCode" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&center=true&vCenter=true&width=700&lines=Hi,+I'm+Samiyar;Embedded+Systems+%26+Python+Developer;Hardware+%2B+Software+Creator;Founder+of+AplloCode" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o6ZtpxSZbQRRnwCKQ/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/l0HlPjezG7HkJpNjy/giphy.gif" width="300" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-Hi! I'm Samiyar, an Embedded Systems & Python Developer. I love combining hardware with software, designing PCBs, and building full-stack solutions. Currently diving deep into microcontrollers, Raspberry Pi GUI, and Python automation.  
+Hi! I'm Samiyar, an Embedded Systems & Python Developer. I love combining hardware with software, designing PCBs, and building full-stack solutions.  
 
 - 🔭 Working on embedded projects & Python apps  
-- 🌱 Learning Altium Designer, Pygame, IoT integration  
+- 🌱 Learning Altium Designer, Pygame, Raspberry Pi GUI  
 - 💡 Passionate about automation, electronics, and hardware-software synergy  
 - 🎓 Founder of **[AplloCode](https://apllocode.ir)**  
 
