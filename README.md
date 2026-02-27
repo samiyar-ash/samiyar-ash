@@ -1,11 +1,10 @@
-<!-- ================= CYBER HEADER ================= -->
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=38&duration=4000&color=00F0FF&center=true&vCenter=true&width=900&lines=Samiyar+Ashuri;Embedded+%7C+Python+Engineer;Hardware+%2B+Software+Architect;Founder+of+AplloCode" />
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:004e92&height=120&section=header"/>
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=38&duration=4000&color=00F0FF&center=true&vCenter=true&width=900&lines=Samiyar+Ashuri;Embedded+%7C+Python+Engineer;Hardware+%2B+Software+Architect;Founder+of+AplloCode" />
 </p>
 
 ---
@@ -78,6 +77,6 @@ I engineer **real-world intelligent systems** — from PCB to backend logic — 
 
 # 🌐 NETWORK LINKS
 
-<p align="center"> <a href="https://www.instagram.com/samiyar_ash" target="_blank"> <img src="https://www.svgrepo.com/show/303145/instagram-2-1-logo.svg" width="50 alt="Instagram"/> </a> <a href="https://t.me/samiyar_ash" target="_blank"> <img src="https://www.svgrepo.com/show/452115/telegram.svg" width="50 alt="Telegram"/> </a> <a href="https://www.linkedin.com/in/samiyar-ashuri-607619312" target="_blank"> <img src="https://www.svgrepo.com/show/157006/linkedin.svg" width="50 alt="LinkedIn"/> </a> <a href="https://apllocode.ir" target="_blank"> <img src="https://apllocode.ir/f.png" width="50 alt="AplloCode" /> </a> </p>
+<p align="center"> <a href="https://www.instagram.com/samiyar_ash" target="_blank"> <img src="https://www.svgrepo.com/show/303145/instagram-2-1-logo.svg" width="50 alt="Instagram"/> </a> <a href="https://t.me/samiyar_ash" target="_blank"> <img src="https://www.svgrepo.com/show/452115/telegram.svg" width="50 alt="Telegram"/> </a> <a href="https://www.linkedin.com/in/samiyar-ashuri-607619312" target="_blank"> <img src="https://www.svgrepo.com/show/452051/linkedin.svg " width="50 alt="LinkedIn"/> </a> <a href="https://apllocode.ir" target="_blank"> <img src="https://apllocode.ir/f.png" width="50 alt="AplloCode" /> </a> </p>
 
 ---
