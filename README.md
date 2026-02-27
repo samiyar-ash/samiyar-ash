@@ -28,7 +28,7 @@ I engineer **real-world intelligent systems** — from PCB to backend logic — 
 
 <p align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&size=30&duration=2500&pause=800&color=00F0FF&center=true&vCenter=true&width=800&lines=SAMiYAR+%7C+SKILL+MATRIX;Embedded+%26+Backend+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&size=30&duration=2500&pause=800&color=00F0FF&center=true&vCenter=true&width=800&lines=SAMiYAR+%7C+SKILL;Embedded+%26+Backend+Engineer" />
 
   <br><br>
 
@@ -72,7 +72,8 @@ I engineer **real-world intelligent systems** — from PCB to backend logic — 
 
 <p align="center">
 <a href="https://www.instagram.com/samiyar_ash"><img src="https://skillicons.dev/icons?i=instagram"/></a>
-<a href="https://t.me/samiyar_ash"><img src="https://skillicons.dev/icons?i=telegram"/></a>
+<a href="https://t.me/samiyar_ash"><img src="https://www.svgrepo.com/show/349527/telegram.svg
+" width="47" /></a>
 <a href="https://www.linkedin.com/in/samiyar-ashuri-607619312"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
 <a href="https://apllocode.ir"><img src="https://skillicons.dev/icons?i=github"/></a>
 </p>
