@@ -28,13 +28,13 @@ I engineer **real-world intelligent systems** — from PCB to backend logic — 
   <br><br>
   <img src="https://img.shields.io/badge/Python-Expert-111827?style=for-the-badge&logo=python&logoColor=00F0FF&color=00F0FF" />
   <img src="https://img.shields.io/badge/Django-Advanced-111827?style=for-the-badge&logo=django&logoColor=00F0FF&color=0077FF" />
-  <img src="https://img.shields.io/badge/Embedded_Systems-Advanced-111827?style=for-the-badge&logo=arduino&logoColor=00F0FF&color=00F0FF" />
-  <img src="https://img.shields.io/badge/PCB_Design_(Altium)-Advanced-111827?style=for-the-badge&logo=altiumdesigner&logoColor=00F0FF&color=0077FF" />
+  <img src="https://img.shields.io/badge/Embedded_Systems-Advanced-111827?style=for-the-badge&logo=arduino&logoColor=00F0FF&color=0077FF" />
+  <img src="https://img.shields.io/badge/PCB_Design_(Altium)-Intermediate-111827?style=for-the-badge&logo=altiumdesigner&logoColor=00F0FF&color=0077FF" />
   <img src="https://img.shields.io/badge/Raspberry_Pi-Advanced-111827?style=for-the-badge&logo=raspberrypi&logoColor=00F0FF&color=00F0FF" />
   <img src="https://img.shields.io/badge/PHP_/_MySQL-Intermediate-111827?style=for-the-badge&logo=php&logoColor=00F0FF&color=0077FF" />
   <img src="https://img.shields.io/badge/Cybersecurity-Intermediate-111827?style=for-the-badge&logo=hackthebox&logoColor=00F0FF&color=00F0FF" />
-  <img src="https://img.shields.io/badge/Kali_Linux-Intermediate-111827?style=for-the-badge&logo=kalilinux&logoColor=00F0FF&color=0077FF" />
-  <img src="https://img.shields.io/badge/Linux_(LPIC_3)-Advanced-111827?style=for-the-badge&logo=linux&logoColor=00F0FF&color=00F0FF" />
+  <img src="https://img.shields.io/badge/Kali_Linux-Expert-111827?style=for-the-badge&logo=kalilinux&logoColor=00F0FF&color=00F0FF" />
+  <img src="https://img.shields.io/badge/Linux_(LPIC_3)-Advanced-111827?style=for-the-badge&logo=linux&logoColor=00F0FF&color=0077FF" />
   <br><br>
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" title="Python" style="transition: all 0.3s ease; filter: drop-shadow(0 0 5px #00BFFF);" /></a>
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="50" title="Arduino" style="transition: all 0.3s ease; filter: drop-shadow(0 0 5px #00BFFF);" /></a>
