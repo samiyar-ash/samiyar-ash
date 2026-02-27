@@ -1,5 +1,3 @@
-
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:004e92&height=120&section=header"/>
 </p>
@@ -16,17 +14,17 @@
 ### 👨‍💻 Identity
 **Samiyar Ashuri**  
 Embedded Systems & Python Engineer  
-PCB Designer • Automation Developer • System Integrator  
+PCB Designer • Automation Developer • System Integrator • Cybersecurity Enthusiast  
 
 ### 🧠 Mission
-I engineer **real-world intelligent systems** — from PCB to backend logic — merging hardware precision with software scalability.
+I engineer **real-world intelligent systems** — from PCB to backend logic — merging hardware precision with software scalability.  
 
 </div>
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&size=30&duration=2500&pause=800&color=00F0FF&center=true&vCenter=true&width=800&lines=SAMiYAR+%7C+SKILL;Embedded+%26+Backend+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&size=30&duration=2500&pause=800&color=00F0FF&center=true&vCenter=true&width=800&lines=SAMiYAR+%7C+SKILL;Embedded+%26+Backend+Engineer+%26+Cybersecurity" />
   <br><br>
   <img src="https://img.shields.io/badge/Python-Expert-111827?style=for-the-badge&logo=python&logoColor=00F0FF&color=00F0FF" />
   <img src="https://img.shields.io/badge/Django-Advanced-111827?style=for-the-badge&logo=django&logoColor=00F0FF&color=0077FF" />
@@ -34,6 +32,9 @@ I engineer **real-world intelligent systems** — from PCB to backend logic — 
   <img src="https://img.shields.io/badge/PCB_Design_(Altium)-Advanced-111827?style=for-the-badge&logo=altiumdesigner&logoColor=00F0FF&color=0077FF" />
   <img src="https://img.shields.io/badge/Raspberry_Pi-Advanced-111827?style=for-the-badge&logo=raspberrypi&logoColor=00F0FF&color=00F0FF" />
   <img src="https://img.shields.io/badge/PHP_/_MySQL-Intermediate-111827?style=for-the-badge&logo=php&logoColor=00F0FF&color=0077FF" />
+  <img src="https://img.shields.io/badge/Cybersecurity-Intermediate-111827?style=for-the-badge&logo=hackthebox&logoColor=00F0FF&color=00F0FF" />
+  <img src="https://img.shields.io/badge/Kali_Linux-Intermediate-111827?style=for-the-badge&logo=kalilinux&logoColor=00F0FF&color=0077FF" />
+  <img src="https://img.shields.io/badge/Linux_(LPIC_3)-Advanced-111827?style=for-the-badge&logo=linux&logoColor=00F0FF&color=00F0FF" />
   <br><br>
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" title="Python" style="transition: all 0.3s ease; filter: drop-shadow(0 0 5px #00BFFF);" /></a>
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="50" title="Arduino" style="transition: all 0.3s ease; filter: drop-shadow(0 0 5px #00BFFF);" /></a>
@@ -47,11 +48,8 @@ I engineer **real-world intelligent systems** — from PCB to backend logic — 
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="50" title="CSS" style="transition: all 0.3s ease; filter: drop-shadow(0 0 5px #00BFFF);" /></a>
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" title="JavaScript" style="transition: all 0.3s ease; filter: drop-shadow(0 0 5px #00BFFF);" /></a>
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50" title="Django" style="transition: all 0.3s ease; filter: drop-shadow(0 0 5px #00BFFF);" /></a>
-
-
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" title="Linux" style="transition: all 0.3s ease; filter: drop-shadow(0 0 5px #00BFFF);" /></a>
 </p>
-
-
 
 ---
 
