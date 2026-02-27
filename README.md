@@ -83,7 +83,7 @@ I engineer **real-world intelligent systems** — from PCB to backend logic — 
 <a href="https://t.me/samiyar_ash"><img src="https://www.svgrepo.com/show/349527/telegram.svg
 " width="47" /></a>
 <a href="https://www.linkedin.com/in/samiyar-ashuri-607619312"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
-<a href="https://apllocode.ir"><img src="https://apllocode.ir/f.png" width="50/></a>
+<a href="https://apllocode.ir"><img src="https://apllocode.ir/f.png"/></a>
 </p>
 
 ---
