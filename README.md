@@ -2,10 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=5000&color=00BFFF&width=800&lines=Hi+👋,+I'm+Samiyar.;Embedded+%2B+Python+Developer;Hardware+%2B+Software+Creator;Founder+of+AplloCode" />
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/l0HlPjezG7HkJpNjy/giphy.gif" width="350" style="border-radius:15px;box-shadow:0 0 30px #00BFFF;" alt="Cyber Neon Animation"/>
-</p>
-
 ---
 
 ##  About Me
