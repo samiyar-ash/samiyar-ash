@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:004e92&height=120&section=header"/>
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=38&duration=4000&color=00F0FF&center=true&vCenter=true&width=900&lines=Samiyar+Ashuri;Embedded+%7C+Python+Engineer;Hardware+%2B+Software+Architect;Founder+of+AplloCode" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=38&duration=4000&color=00F0FF&center=true&vCenter=true&width=900&lines=Samiyar+Ashuri;Embedded+%7C+Python+Engineer;Hardware+%2B+Software+Architect;Technical+Manager,Perman+Fab+Lab" />
 </p>
 
 ---
